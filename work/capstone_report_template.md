@@ -2,7 +2,7 @@
 
 - **Author:** Büşra Yıldırım (busrayildirim.dev@gmail.com)
 - **Lane:** Structured Content Archetype Clustering
-- **Repo:** [Insert Your GitHub Repo URL]
+- **Repo:** https://github.com/busrayildirim0/flyrank-ml-internship
 - **Date:** August 25, 2026
 
 ## 0. Abstract
